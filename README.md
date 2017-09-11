@@ -4,3 +4,4 @@
 
 This branch shows a working setup for Black Duck CoPilot's test server.
 An example for public use can be found [here](https://github.com/BlackDuckCoPilot/example-rubygems-circle).
+Olga
